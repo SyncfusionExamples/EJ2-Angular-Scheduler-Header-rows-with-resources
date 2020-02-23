@@ -1,6 +1,6 @@
 # Syncfusion Angular 8 Scheduler Header Rows With Resources
 
-This project that helps you how to header rows feature along with resource.
+This project helps you to add header rows along with resource.
 
 ![Header Rows with Resources](header-rows-with-resources.png)
 
@@ -14,10 +14,10 @@ The Scheduler features included in this project are as follows.
 * Date header template used to customize the date header rows.
 
 ## How to run this application?
-To run this application, you need to first clone the `ej2-angular-scheduler-header-rows-with-resources` repository and then navigate to its appropriate path where it has been located in your system.
+To run this application, clone the `ej2-angular-scheduler-header-rows-with-resources` repository and then navigate to its appropriate path where it has been located in your system.
 
 ## Installing
-Once done with downloading, next you need to install the necessary packages required to run this application locally. The `npm install` command will install all the needed angular packages into your current project and to do so, run the below command.
+Once done with downloading, install the necessary packages required to run this application locally. The `npm install` command will install all the necessary angular packages into your current project. Run the below command to do so.
 
 ```
 npm install
