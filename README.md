@@ -2,7 +2,7 @@
 
 This project helps you to add header rows along with resource.
 
-![Header Rows with Resources](header-rows-with-resources.png)
+![Header Rows with Resources](./header-rows-with-resources.PNG)
 
 ## Scheduler features covered in this Project
 
